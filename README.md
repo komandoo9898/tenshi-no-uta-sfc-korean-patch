@@ -2,6 +2,8 @@
 
 슈퍼 패미컴 게임 「천사의 시 ―하얀 날개의 기도―」의 한국어 번역 패치입니다.
 
+별칭: Tenshi no Uta: Shiroki Tsubasa no Inori / 天使の詩 白き翼の祈り / 한글 패치 · Korean translation patch
+
 ## 샘플
 
 ![제목 화면](samples/title.png)
