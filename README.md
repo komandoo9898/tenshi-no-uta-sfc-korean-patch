@@ -13,7 +13,7 @@
 
 ## 필요한 것
 
-- 정식으로 입수한 원본 롬 (SHA-256 `89fb8969bed97315dcf3cbb01ec2124177a9d44b5f9b624339883c6ae27ed9f8`, 1,572,864바이트)
+- 원본 롬 
 - 512바이트 복사기 헤더가 없어야 합니다. 있으면 제거한 뒤 사용하세요.
 
 ## 적용 방법
@@ -21,8 +21,7 @@
 ① **브라우저 적용(권장)**: `patcher/index.html`을 브라우저로 열거나 [웹 페이지](https://komandoo9898.github.io/tenshi-no-uta-sfc-korean-patch/patcher/)에 접속해 원본 롬을 선택하면 패치된 롬이 내려받아집니다. 롬은 브라우저 밖으로 나가지 않습니다.
 ② **IPS 패처**: Releases의 `.ips` 파일을 Flips 또는 Lunar IPS로 원본 롬에 적용합니다.
 
-- 결과 롬: 2,097,152바이트, SHA-256 `52dc0cbbeeef162615e8f75385a3cc2d540663b5969ea1697241b13f2dea72ca`
-
+- 결과 롬: 2,097,152바이트, SHA-256 
 ## 다운로드
 
 [Releases](../../releases)에서 최신 `.ips` 파일을 받으세요.
