@@ -1,0 +1,15 @@
+# 롬·원본·압축 파일이 실수로 올라가지 않게 차단
+*.sfc
+*.smc
+*.zst
+*.srm
+*.bak
+
+# 임시 파일
+*.tmp
+*.temp
+*.log
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
